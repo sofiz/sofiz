@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sofiz
-- founder of EURL SOFIZPAY a tech startup based in Algeria.
+- founder of SOFIZPAY a tech startup based in Algeria.
 - 👀 I’m interested in Web-Dev, AI, Blockchain.
 - 💻 Programming languages I use : Python, Javascript, PHP, CSS, HTML.
-- 🎨 Frameworks I use: Django, React,Express, Bootstrap.
-- 🌱 I’m currently learning Express JS
+- 🎨 Frameworks I use: Django, React,Express, Tailwind.
+- 🌱 I’m currently learning AI tools 
 - 💞️ I’m looking for talented individuals to help revolutionize the tech industry in Algeria.
-- 📫 How to reach me "oussamasofi.sp@gmail.com".
+- 📫 How to reach me "ceo@sofizpay.com".
